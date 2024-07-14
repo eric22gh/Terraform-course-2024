@@ -2,7 +2,7 @@
 
 About Me
 
-👋 Hi, I'm Eric Hernandez Edwards, a professional from the Costa Rican Social Security Fund (C.C.S.S). Currently, I'm immersed in the fascinating world of Python, AWS, Linux, Terraform, and SQL, learning and growing in these technologies. I am passionate about strengthening my knowledge in Terraform and AWS deployments.
+👋 Hi, I'm Eric Hernandez Edwards, a professional from the Costa Rican Social Security Fund (C.C.S.S). Currently, I'm immersed in the fascinating world of Terraform, learning and growing in this technology. I am passionate about strengthening my knowledge in Terraform and AWS deployments.
 
 Description
 📚 This repository is dedicated to my journey through an in-depth Terraform course. Here, you'll find scripts, projects, and exercises that I have completed as part of my learning process. The focus is on building a solid foundation in Terraform, with an emphasis on best practices for deploying infrastructure on AWS. Feel free to explore and reach out if you have any questions or need further assistance!
