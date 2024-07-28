@@ -8,6 +8,8 @@ resource "aws_instance" "myec2" {
   }
 }
 
+# terraform apply -var="ami=ami-0b0dcb5067f052a63" -var="instance_type=t2.micro"
+
 
 
 
