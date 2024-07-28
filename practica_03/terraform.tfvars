@@ -17,3 +17,6 @@ tags_of_onpremis_vpc = {
     IaC         = "Terraform"
     year        = "2024"
 }
+
+ami = "ami-0427090fd1714168b"
+instance_type = "t2.micro"

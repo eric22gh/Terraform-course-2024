@@ -13,3 +13,9 @@ variable "cidr_vpc_onpremis" {
   type = string
 
 }
+
+variable "ami" {
+}
+
+variable "instance_type" {
+}
